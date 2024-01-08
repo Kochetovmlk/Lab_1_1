@@ -1,0 +1,26 @@
+﻿using System;
+
+Console.WriteLine("Минимальное значение типа byte: " + byte.MinValue);
+Console.WriteLine("Максимальное значение типа byte: " + byte.MaxValue);
+Console.WriteLine("Минимальное значение типа sbyte: " + sbyte.MinValue);
+Console.WriteLine("Максимальное значение типа sbyte: " + sbyte.MaxValue);
+Console.WriteLine("Минимальное значение типа short: " + short.MinValue);
+Console.WriteLine("Максимальное значение типа short: " + short.MaxValue);
+Console.WriteLine("Минимальное значение типа ushort: " + ushort.MinValue);
+Console.WriteLine("Максимальное значение типа ushort: " + ushort.MaxValue);
+Console.WriteLine("Минимальное значение типа int " + int.MinValue);
+Console.WriteLine("Максимальное значение типа int: " + int.MaxValue);
+Console.WriteLine("Минимальное значение типа uint " + uint.MinValue);
+Console.WriteLine("Максимальное значение типа uint: " + uint.MaxValue);
+Console.WriteLine("Минимальное значение типа long " + long.MinValue);
+Console.WriteLine("Максимальное значение типа ulong: " + ulong.MaxValue);
+Console.WriteLine("Минимальное значение типа ulong " + ulong.MinValue);
+Console.WriteLine("Максимальное значение типа long: " + long.MaxValue);
+Console.WriteLine("Минимальное значение типа float " + float.MinValue);
+Console.WriteLine("Максимальное значение типа float: " + float.MaxValue);
+Console.WriteLine("Минимальное значение типа double " + double.MinValue);
+Console.WriteLine("Максимальное значение типа double: " + double.MaxValue);
+Console.WriteLine("Минимальное значение типа deciman " + decimal.MinValue);
+Console.WriteLine("Максимальное значение типа deciman: " + decimal.MaxValue);
+Console.WriteLine("Минимальное значение типа char " + (int)char.MinValue);
+Console.WriteLine("Максимальное значение типа char: " + (int)char.MaxValue);
